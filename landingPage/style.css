@@ -793,7 +793,7 @@ input[type=number] {
         position: absolute;
     }
     .centerContent{
-        width: 80%;
+        width: 75%;
         height: auto;
         margin: auto;
         display: flex;
@@ -805,7 +805,7 @@ input[type=number] {
         height: auto;
     }
     .rightContent{
-        margin-top: 100px;
+        margin-top: 70px;
         width: 300px;
         height: auto;
     }
